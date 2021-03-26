@@ -1,2 +1,2 @@
 # Machine-learning-model
-Breast cancer prediction
+Breast cancer Detection
